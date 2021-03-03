@@ -1,4 +1,4 @@
-# 微信小程序：笑笑伴你行
+# 微信小程序
 
 >  参考项目：[awesome-taro](https://github.com/NervJS/awesome-taro)、[taro-yanxuan](https://github.com/qit-team/taro-yanxuan)、[taro-music](https://github.com/lsqy/taro-music)
 >
